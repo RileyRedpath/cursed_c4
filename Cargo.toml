@@ -1,0 +1,8 @@
+[package]
+name = "cursed_c4"
+version = "0.1.0"
+authors = ["Riley <riley.redpath@queensu.ca>"]
+
+[dependencies]
+c4 = {path = "../c4"}
+ncurses = "5.86.0"
